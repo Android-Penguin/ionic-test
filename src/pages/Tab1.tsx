@@ -15,6 +15,7 @@ const Tab1: React.FC = () => {
           <IonButton href="/tab2">
             Open Camera Tab
           </IonButton>
+          <p>Note: This app will only store files locally, no data is sent elsewhere</p>
         </div>
       </IonContent>
     </IonPage>
