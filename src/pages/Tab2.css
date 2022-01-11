@@ -1,0 +1,16 @@
+ion-icon {
+    pointer-events: none;
+}
+.img-container {
+    position: relative;
+    margin: 5px 5px 0 0;
+}
+.remove-img-btn {
+    position: absolute;
+    top: -7px;
+    right: -5px;
+    --padding-start: 0;
+    --padding-end: 0;
+    height: 26px;
+    width: 26px;
+}
